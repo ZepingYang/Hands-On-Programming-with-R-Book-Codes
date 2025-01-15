@@ -1,0 +1,9 @@
+# 该数据由国家扑克协会收集整理。,,
+# 我们不小心重复了最后一行数据。,,
+,,
+card,suit,value
+ace,spades,14
+king,spades,13
+queen,spades,12
+jack,spades,11
+ten,spades,10
